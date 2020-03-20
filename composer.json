@@ -1,0 +1,16 @@
+{
+    "name": "jeremy/firebase",
+    "description": "Edutech Project Demo",
+    "license": "GNU3",
+    "authors": [
+        {
+            "name": "JTMT1997",
+            "email": "jtumbur11@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "^4.35",
+        "php":">=7.3.13"
+    }
+}
